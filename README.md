@@ -4,6 +4,6 @@ Repositório para armazenar todos os código doprojetos da minah graduação de 
 
 Atividades;
 
-Exercícios
+Exercícios;
 
 TCCs;
