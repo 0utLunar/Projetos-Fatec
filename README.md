@@ -1,17 +1,21 @@
-# TÉCNOLOGO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
-Repositório para armazenar todos os código doprojetos da minah graduação de Técnologia em Análise em Desenvolvimento de Sistemas 
-<br><br>
+# 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-Atividades;
+Repositório destinado ao armazenamento dos códigos desenvolvidos durante minha graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
 
-Exercícios;
+## 📌 Conteúdo
 
-TCCs;
-<br><br>
+- 📂 **Atividades** – Projetos e exercícios práticos realizados ao longo do curso.
+- 📊 **Exercícios** – Problemas e desafios resolvidos em diversas linguagens de programação.
+- 📜 **TCCs** – Trabalhos de Conclusão de Curso e projetos acadêmicos.
 
-1- Lava Jato
+## 🚀 Projetos
 
-Desafio proposto pelo professor de Matemática discreta Odilon, onde teriamos que criar um sistema ultilizando
-alguma linguagem de programação para fazer a gestão de um Lava A Jato, calculando a Receita Total, Custos Totais e o Lucro,
-utilizando dados definidos pelo usuário, este programa foi feito em Python e enviado ao professor depois de ser convertido
-para um .exe através do conversor.
+### 1️⃣ **Lava Jato**
+
+Desafio proposto pelo professor **Odilon** na disciplina de **Matemática Discreta**, no qual desenvolvemos um sistema para a gestão de um **lava a jato**. O sistema, implementado em **Python**, permite:
+
+✅ Cálculo da **Receita Total**  
+✅ Cálculo dos **Custos Totais**  
+✅ Determinação do **Lucro**  
+
+Os dados são fornecidos pelo usuário e processados para gerar os resultados. O programa foi convertido em um **arquivo .exe** antes do envio ao professor.
