@@ -1,21 +1,44 @@
-# 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+# 🚗 Programa Lava a Jato
 
-Repositório destinado ao armazenamento dos códigos desenvolvidos durante minha graduação em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
+## 📌 Descrição
 
-## 📌 Conteúdo
+Este é um sistema de gestão para um **lava a jato**, desenvolvido em **Python** com **Tkinter**, que permite calcular automaticamente a **receita total**, **custos totais** e **lucro** com base nos dados fornecidos pelo usuário.
 
-- 📂 **Atividades** – Projetos e exercícios práticos realizados ao longo do curso.
-- 📊 **Exercícios** – Problemas e desafios resolvidos em diversas linguagens de programação.
-- 📜 **TCCs** – Trabalhos de Conclusão de Curso e projetos acadêmicos.
+## 🎯 Funcionalidades
 
-## 🚀 Projetos
+✅ Interface gráfica intuitiva para entrada de dados.  
+✅ Cálculo automático de **receita total**, **custos totais** e **lucro**.  
+✅ Indicação visual de lucro positivo, negativo ou neutro com cores distintas.  
+✅ Possibilidade de converter para **.exe** para distribuição fácil.  
 
-### 1️⃣ **Lava Jato**
+## 🛠 Tecnologias Utilizadas
 
-Desafio proposto pelo professor **Odilon** na disciplina de **Matemática Discreta**, no qual desenvolvemos um sistema para a gestão de um **lava a jato**. O sistema, implementado em **Python**, permite:
+- **Python** 🐍
+- **Tkinter** (interface gráfica)
 
-✅ Cálculo da **Receita Total**  
-✅ Cálculo dos **Custos Totais**  
-✅ Determinação do **Lucro**  
+## 📦 Instalação e Execução
 
-Os dados são fornecidos pelo usuário e processados para gerar os resultados. O programa foi convertido em um **arquivo .exe** antes do envio ao professor.
+1. **Clone o repositório:**
+   ```sh
+   git clone https://github.com/seu-usuario/lava-jato.git
+   cd lava-jato
+   ```
+
+2. **Instale o Python** (se ainda não tiver):
+   - Baixe e instale o Python pelo [site oficial](https://www.python.org/downloads/).
+   - Certifique-se de adicionar o Python ao PATH.
+
+3. **Execute o programa:**
+   ```sh
+   python lava_jato.py
+   ```
+
+## 🖼 Interface Gráfica
+
+- Campos para inserção de preços, custos e número de funcionários.
+- Botão **Calcular** que exibe os resultados na tela.
+- Feedback visual do lucro: **verde** (positivo), **vermelho** (negativo) e **azul** (zero).
+
+## 📌 Autor
+
+Desenvolvido por **Lucas Cirino** durante o curso de **Tecnólogo em Análise e Desenvolvimento de Sistemas**.
